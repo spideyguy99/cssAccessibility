@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  font-family: "Dubai Light", sans-serif;
+}
+body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+img {
+  width: 50%;
+  height: 150px;
+}
+ul {
+  display: flex;
+  flex-direction: column;
+  background-color: cornflowerblue;
+  border: cadetblue 3px solid;
+  border-radius: 3px;
+  margin: 5px;
+}
+li {
+  width: 150px;
+}
+.title {
+  list-style: none;
+  font-size: x-large;
+  font-weight: bold;
+  text-decoration: underline;
+}
+#neon {
+  color: #39FF14;
+}
+#red {
+  color: red;
+}
+#yellow {
+  color: yellow;
+}
+#arial {
+  font-family: Arial, serif;
+}
+#times {
+  font-family: "Times New Roman", serif;
+}
+#comic {
+  font-family: "Comic Sans MS", serif;
+}
+#papyrus {
+  font-family: "Papyrus", serif;
+}
+/*# sourceMappingURL=style.css.map */
